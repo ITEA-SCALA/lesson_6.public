@@ -48,7 +48,7 @@ object Application2 extends App {
     if (list.length < index) throw new NoSuchElementException
     list.takeRight(index).head
   }
-  println( "P03 (*) 'lastNthBuiltin' = " +
+  println( "P03 (lastNthBuiltin) = " +
     lastNthBuiltin(1, List(1, 1, 2, 3, 5, 8)) )
 
   /**
