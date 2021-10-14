@@ -1,4 +1,4 @@
-package com.itea.generics
+package com.itea.task1
 
 /**
  * @see http://aperiodic.net/phil/scala/s-99/
